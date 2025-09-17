@@ -1,3 +1,3 @@
-# diary
-记录知识的积累以及在开发研究过程中所遇到的问题
+# BlogDiary
+博客文章载体，后续迁移到Notion
 详见Issues
